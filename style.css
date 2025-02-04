@@ -31,3 +31,19 @@ li:hover{
 .menu img{
     height: 18px;
 }
+.banner {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f0f0f0
+}
+
+.produto {
+    text-align: center;
+}
+
+.produto img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
